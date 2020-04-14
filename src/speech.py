@@ -76,4 +76,3 @@ def cloud_long_recognize(storage_uri):
     for result in operation.result().results:
         alternative = result.alternatives[0]
         print(u"{}".format(alternative.transcript))
-
