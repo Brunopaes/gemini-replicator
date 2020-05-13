@@ -1,4 +1,4 @@
-# Evil Eye: Speech-to-text decoder
+# Gemini Replicator: Speech-to-text decoder
 
 <small>_Optimized for python 3.6_</small>
 
